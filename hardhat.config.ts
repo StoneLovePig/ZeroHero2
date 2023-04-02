@@ -49,7 +49,7 @@ const config: HardhatUserConfig = {
 
     bnbtest: {
       url: "https://endpoints.omniatech.io/v1/bsc/testnet/public",
-      accounts: ["009b0b4771fcd55d748958c663a08015721b1b9ccfa053b6e975acc614cb8d15"],
+      accounts: [""],
       },
     
   },
@@ -63,7 +63,7 @@ const config: HardhatUserConfig = {
     timeout: 20000,
   },
   etherscan: {
-    apiKey: "24YYUS1UDM3G9SWVE6PTBQYZ7VYGPP89SG",
+    apiKey: "",
   },
 }
 
