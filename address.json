@@ -1,0 +1,14 @@
+{
+	"localhost": {
+		"ProxyAdmin": "",
+		"MyContract": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+	},
+	"hardhat": {
+		"ProxyAdmin": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+		"MyContract": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+	},
+	"bnbtest": {
+		"ProxyAdmin": "0x4Ff6e315f53A4e6d8E770768541A156641Fd751F",
+		"MyContract": "0xBDa406fd396a3C0974636b9e5c41636F5EE7f28e"
+	}
+}
